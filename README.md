@@ -3,6 +3,9 @@
 This repository contains code for training and inference of a multi-speaker and single-speaker speech synthesis model using Prosody2Vec.
 The repo is conceptually based on https://arxiv.org/pdf/2212.06972 Paper and enhances it with multi-speaker prosody conversion.
 
+![alt text](image.png)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -28,14 +31,6 @@ The repo is conceptually based on https://arxiv.org/pdf/2212.06972 Paper and enh
     ```sh
     pip install -r requirements.txt
     ```
-
-## Usage
-
-### Training
-
-#### Multi-Speaker Training
-
-To train the multi-speaker model, run the following command:
 
 
 
