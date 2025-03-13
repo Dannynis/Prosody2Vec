@@ -6,6 +6,9 @@ The repo is conceptually based on https://arxiv.org/pdf/2212.06972 Paper and enh
 ![alt text](image.png)
 
 
+https://colab.research.google.com/drive/1-20CwDeTi5TVSL-op1NZd41SrqMGM6zA#scrollTo=l7Lh_6LjmPCk
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -22,17 +25,16 @@ The repo is conceptually based on https://arxiv.org/pdf/2212.06972 Paper and enh
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/Prosody2Vec.git
-    cd Prosody2Vec
-    ```
 
+   ```sh
+   git clone https://github.com/yourusername/Prosody2Vec.git
+   cd Prosody2Vec
+   ```
 2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
-
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 ## Dataset Preparation
 
@@ -59,6 +61,7 @@ This project uses pre-trained models from the following repositories:
 We thank the authors of these repositories for their contributions to the community.
 
 # Prosody vector TSNE
+
 ![alt text](emo.png)
 
 s
