@@ -6,8 +6,8 @@ The repo is conceptually based on https://arxiv.org/pdf/2212.06972 Paper and enh
 ![alt text](image.png)
 
 
-https://colab.research.google.com/drive/1-20CwDeTi5TVSL-op1NZd41SrqMGM6zA#scrollTo=l7Lh_6LjmPCk
 
+[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-20CwDeTi5TVSL-op1NZd41SrqMGM6zA)
 
 ## Table of Contents
 
